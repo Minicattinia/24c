@@ -9,7 +9,7 @@ exsample below
 ################ Site 1 #######################
 Url1 = 'https://24.sharelink.club/claim.php?coin=EXS'
 Cookie1 = 'EXSToken=EtDOwh5iEezZFDmMxsE1GSuaPExqVtDg; PHPSESSID:83dd2811d1361b61956e71103382499f'
-Delay1 = '60'
+Delay1 = 60
 ################ Site 2 #######################
 Url2 = 'https://uptocoin.tk/ec/claim.php?coin=DASH'
 Cookie2 = 'DASHToken=Egtwdn4kL2vX4WFlsiJDYI2rnIinPDKd; PHPSESSID=1d4814b266d8bf6fcc6fd7cebe8affc8'
@@ -98,3 +98,15 @@ Delay22 = 60
 Url23 ='https://lemeclaim.website/auto/claim.php?coin=BCN'
 Cookie23 ='BCNToken=1Kriib2IesTKwiTifiUUXSgv2PA9kLOy; __cfduid=d7867e3ab3614b456af448abf116c4f021596425878; PHPSESSID=a4857d680f10ebefbf4c7369033d95ba; _ga=GA1.2.298792070.1596425882; _gid=GA1.2.1687539435.1596425882; adcashufpv3=16928045027829833672069025383; _data_html=586-1_587-6_760-5'
 Delay23 = 60
+################ Site 24 #######################
+Url24 ='https://ptcbits.com/lvl/claim.php?coin=ADA
+Cookie24 ='ADAToken=hUPBTNjY1zzTI9T5X0dV0fsq1IIHmDDF; __cfduid=d53fd77169c6944a97ee2a614561b236e1596429768; PHPSESSID=49bbca685608a1f7c74329a089780563; _coinzilla_fp_=%7B%22backed%22%3A%5B%7B%22cap%22%3A1%2C%22lastCall%22%3A1596429778372%7D%5D%7D; CoinTrafficPnd0=1'
+Delay24 = 10
+################ Site 24 #######################
+Url24 ='https://ptcbits.com/lvl/claim.php?coin=EXS
+Cookie24 ='EXSToken=8F0mtpugVHToPYWhxwSyi7zo1hXA7JZo; __cfduid=d53fd77169c6944a97ee2a614561b236e1596429768; PHPSESSID=49bbca685608a1f7c74329a089780563; _coinzilla_fp_=%7B%22backed%22%3A%5B%7B%22cap%22%3A1%2C%22lastCall%22%3A1596429778372%7D%5D%7D; CoinTrafficPnd0=1'
+Delay24 = 10
+################ Site 24 #######################
+Url24 ='https://ptcbits.com/lvl/claim.php?coin=BCN
+Cookie24 ='BCNToken=H6cFpbfHiIW9SVPPuJoc7nk6wkXFM3KI; __cfduid=d53fd77169c6944a97ee2a614561b236e1596429768; PHPSESSID=49bbca685608a1f7c74329a089780563; _coinzilla_fp_=%7B%22backed%22%3A%5B%7B%22cap%22%3A1%2C%22lastCall%22%3A1596429778372%7D%5D%7D; CoinTrafficPnd0=1'
+Delay24 = 10
